@@ -3,3 +3,5 @@ pygments: true
 safe: true
 lsi: false
 exclude: ["CNAME"]
+paginate: 5
+pagination_len: 10
