@@ -8,47 +8,4 @@ layout: default
   </li>
   {% endfor %}
 </ul>
-<!-- Pagination -->
-<div class='pagination pagination-centered'>
-  <ul>
-    <li><a href='/'>First</a></li>
-    {% assign look_right = site.pagination_len | divided_by:2 %}
-    {% assign look_left = site.pagination_len | minus:look_right | minus:1 %}
-    {% assign first_few = site.pagination_len | minus:look_left %}
-    {% assign last_few = paginator.total_pages | minus:look_right %}
-
-    {% if paginator.page < first_few  %}
-      {% assign start = 1 %}
-    {% elsif paginator.page > last_few %}
-      {% assign start = paginator.total_pages | minus:site.pagination_len %}
-    {% else %}
-      {% assign start = paginator.page | minus:look_left %}
-    {% endif %}
-      
-
-    {% if paginator.page < first_few %}
-      {% assign end = site.pagination_len %}
-    {% elsif paginator.page > last_few %}
-      {% assign end = paginator.total_pages %}
-    {% else %}
-      {% assign end = paginator.page | plus:look_right %}
-    {% endif %}
-
-    {% for count in (start..end) %}
-      {% if count == paginator.page %}
-        {% if count == 1 %}
-         <li class="active"><a href='/'>{{ count }}</a></li>
-        {% else %}
-         <li class="active"><a href='/page{{ count }}'>{{ count }}</a></li>
-        {% endif %}
-      {% else %}
-        {% if count == 1 %}
-         <li><a href='/'>{{ count }}</a></li>
-        {% else %}
-         <li><a href='/page{{ count }}'>{{ count }}</a></li>
-        {% endif %}
-      {% endif %}
-    {% endfor %}
-    <li><a href='/page{{ paginator.total_pages }}'>Last</a></li>
-  </ul>
-</div>
+{% include pagination.html %}
