@@ -17,11 +17,11 @@
       <div class='offset1 span7'>
         {{ content }}
       </div>
-      <div class='span2'>
-        <h4>Tag List:</h4>
-        <ul>
+      <div class='span2 well'>
+        <ul class='nav nav-list'>
+          <li class='nav-header'>Tag List</li>
           {% for tag in site.tags %}
-          <li><a href="/tags.html#{{ tag[0] }}">{{ tag[0] }}</a></li>
+            <li><a href="/tags.html#{{ tag[0] }}">{{ tag[0] }}</a></li>
           {% endfor %}
         </ul>
       </div>
