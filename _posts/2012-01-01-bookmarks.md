@@ -20,9 +20,3 @@ title: Bookmarks
 * Python
   - [Pycoder's Weekly Archive](http://pycoders.com/archive.html)
   - [Pragmatic Unicode](http://nedbatchelder.com/text/unipain.html)
-
-```ruby
-def test:
-    puts 'hello'
-end
-```
