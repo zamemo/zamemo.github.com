@@ -17,7 +17,12 @@
       
 
     {% if paginator.page < first_few %}
-      {% assign end = site.pagination_len %}
+      {% if paginator.total_pages > site.pagination_len %}
+        {% assign end = site.pagination_len %}
+      {% else %}
+        {% assign end = paginator.total_pages %}
+      {% endif %}
+      
     {% elsif paginator.page > last_few %}
       {% assign end = paginator.total_pages %}
     {% else %}
@@ -39,7 +44,12 @@
         {% endif %}
       {% endif %}
     {% endfor %}
-    <li><a href='/page{{ paginator.total_pages }}'>Last</a></li>
+    
+    {% if paginator.total_pages > 1 %}
+      <li><a href='/page{{ paginator.total_pages }}'>Last</a></li>
+    {% else %}
+      <li><a href='/'>Last</a></li>
+    {% endif %}
   </ul>
 </div>
 <!-- Pagination end -->
