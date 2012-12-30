@@ -6,6 +6,7 @@ title: Bookmarks
 * Misc
   - [Amusing Planet](http://www.amusingplanet.com/)
   - [Dark Roasted Blend](http://www.darkroastedblend.com/)
+  - [Core77 / industrial design magazine + resource](http://core77.com/)
 
 * D3
   - [D3 Tutorials — Scott Murray — alignedleft](http://alignedleft.com/tutorials/d3/)
