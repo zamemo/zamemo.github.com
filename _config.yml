@@ -5,3 +5,4 @@ lsi: false
 exclude: ["CNAME"]
 paginate: 5
 pagination_len: 10
+url: http://zamemo.com
