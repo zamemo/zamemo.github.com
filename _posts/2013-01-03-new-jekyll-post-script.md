@@ -2,7 +2,6 @@
 layout: post
 tags: jekyll
 title:
-published: false
 ---
 Add environment variable to ~/.bashrc
 {% highlight bash %}
