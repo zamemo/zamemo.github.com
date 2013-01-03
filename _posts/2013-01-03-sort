@@ -1,0 +1,12 @@
+---
+layout: post
+tags: linux
+title: sort
+---
+sort - sort lines of text files
+
+Split using "|" and sort based on value of column 8 (numeric)
+{% highlight bash %}
+sort -t "|" -k 8 -n localhost.txt
+sort --field-separator=\| --key=8 --numeric-sort localhost.txt
+{% endhighlight %}
