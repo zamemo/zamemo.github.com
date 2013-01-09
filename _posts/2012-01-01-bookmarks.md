@@ -13,6 +13,8 @@ title: Bookmarks
   - [Small Business Ideas and Resources for Entrepreneurs](http://www.inc.com/)
   - [Flippa: The #1 Marketplace for Buying and Selling Websites](https://flippa.com/)
   - [Business Tips for Successful Startups](http://mixergy.com)
+  - [ideashower's Space - Home](http://ideashower.posterous.com/)
+  - [Ideas about the future of d3 and related technologies - Until the thought is gone](http://zacharymaril.com/blog/2012/07/10/ideas-about-future-of-d3/)
 
 * D3
   - [D3 Tutorials — Scott Murray — alignedleft](http://alignedleft.com/tutorials/d3/)
