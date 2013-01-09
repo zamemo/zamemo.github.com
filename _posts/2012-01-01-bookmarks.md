@@ -10,6 +10,9 @@ title: Bookmarks
   - [Fighting For Your Mind](http://refer.ly/fighting_for_your_mind/c/833fe668546a11e2b5ab22000a1db8fa)
   - [A tale of a 7 year journey in developing software for the enterprise](http://www.theenterprisearchitect.eu/archive/2013/01/05/a-tale-of-a-7-year-journey-in-developing-software-for-the-enterprise)
   - [Things you may not have known about HTML &amp; CSS - RedTeamDesign](http://www.red-team-design.com/things-you-may-not-have-known-about-html-css)
+  - [Small Business Ideas and Resources for Entrepreneurs](http://www.inc.com/)
+  - [Flippa: The #1 Marketplace for Buying and Selling Websites](https://flippa.com/)
+  - [Business Tips for Successful Startups](http://mixergy.com)
 
 * D3
   - [D3 Tutorials — Scott Murray — alignedleft](http://alignedleft.com/tutorials/d3/)
