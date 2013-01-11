@@ -41,3 +41,8 @@ title: Bookmarks
 
 * Flask
  - [zmusic-ng - ZX2C4 Music web application that serves and transcodes tagged music libraries using Flask and Backbone.js.](http://git.zx2c4.com/zmusic-ng/about/)
+
+* DNS
+ - [CPYarger IT Services: UnoTelly / Tunlr Clone](http://www.cpyarger.com/2012/11/unotelly-tunlr-clone.html)
+ - [Tunlr-Clone/README.md at master · corporate-gadfly/Tunlr-Clone · GitHub](https://github.com/corporate-gadfly/Tunlr-Clone/blob/master/README.md)
+
