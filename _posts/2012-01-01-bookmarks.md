@@ -20,15 +20,24 @@ title: Bookmarks
   - [D3 Tutorials — Scott Murray — alignedleft](http://alignedleft.com/tutorials/d3/)
   - [D3 Tutorial - CS 448B](https://graphics.stanford.edu/wikis/cs448b-12-fall/D3_Tutorial)
   - [Interactive Data Visualization for the Web - OFPS - O'Reilly Media](http://ofps.oreilly.com/titles/9781449339739/index.html)
+
 * Backbone
   - [Backbone patterns](http://ricostacruz.com/backbone-patterns/)
   - [jQuery to Bacbone](https://github.com/kjbekkelund/writings/blob/master/published/understanding-backbone.md/)
   - [Developing Backbone.js Applications -](http://addyosmani.github.com/backbone-fundamentals/)
   - [tbranyen/backbone-boilerplate · GitHub](https://github.com/tbranyen/backbone-boilerplate)
+
 * Python
   - [Pycoder's Weekly Archive](http://pycoders.com/archive.html)
   - [Pragmatic Unicode](http://nedbatchelder.com/text/unipain.html)
 
 * Web
   - [AddyOsmani.com | Articles for developers](http://addyosmani.com/blog/)
+  - [APIs | Codecademy](http://www.codecademy.com/tracks/apis)
+  - [Building a Website You Can Sell for 2013 | Website ValuationStuntdubl.com SEO Consulting &amp; Certification](http://www.stuntdubl.com/2013/01/08/website-valuation-2013/)
 
+* Database
+ - [Understanding Postgres Performance - Craig Kerstiens](http://craigkerstiens.com/2012/10/01/understanding-postgres-performance/)
+
+* Flask
+ - [zmusic-ng - ZX2C4 Music web application that serves and transcodes tagged music libraries using Flask and Backbone.js.](http://git.zx2c4.com/zmusic-ng/about/)
