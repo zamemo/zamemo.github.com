@@ -22,4 +22,4 @@ useradd -G sudo user1
 function test(){
     alert('1');
 }
-</script
+</script>
