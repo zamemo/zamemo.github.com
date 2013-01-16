@@ -18,8 +18,15 @@ Add user1 to group sudo
 useradd -G sudo user1
 {% endhighlight %}
 
-<script>
-function test(){
-    alert('1');
-}
-</script>
+<div class="input-append">
+  <input class="span5" id="changeme" type="text">
+  <button class="btn" type="button" id="change_button">Update Text</button>
+</div>
+
+var old_val = $('#changeme').val();
+$('#change_button').on('click', function(){
+    $(".bash,p").each(function(i){
+        $(this).text($(this).text().replace(old_val, $('#changeme').val()));
+    });
+    old_val = $('#changeme').val();
+});
