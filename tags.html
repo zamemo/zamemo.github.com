@@ -18,19 +18,20 @@ title: Tags
 </div>
 <script>
 function only_show_hash(){
-  $('h4').hide();
-  $('h4').next().hide();
-  $(window.location.hash).show();
-  $(window.location.hash).next().show();
+  var hash = window.location.hash;
+  if(hash){
+    $('h4').hide();
+    $('h4').next().hide();
+    $(hash).show();
+    $(hash).next().show();
+  }
 }
 
 function jQueryLoaded(){
   only_show_hash();
 
   $(window).on('hashchange', function(){
-    if(window.location.hash){
-      only_show_hash();
-    }
+    only_show_hash();
   });
 }
 
