@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: linux
-title:
+title: Create user account
 ---
 Create a new user called user1 with home directory
 {% highlight bash%}
@@ -25,7 +25,7 @@ chage -d 0 user1
 
 <div class="input-append">
   <input class="span5" id="changeme" type="text" value="user1" />
-  <button class="btn" type="button" id="change_button">Update Text</button>
+  <button class="btn" type="button" id="change_button">Update username</button>
 </div>
 
 <script>
