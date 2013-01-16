@@ -20,3 +20,24 @@ title: Tags
     {% endfor %}
   </ul>
 </div>
+<script>
+function jQueryLoaded(){
+  $(window).on('hashchange', function(){
+    if(window.location.hash){
+      $('h4').parent().hide();
+      $(window.location.hash).parent().show();
+    }
+  });
+}
+
+function checkJQuery(){
+  if(window.jQuery){
+    jQueryLoaded();
+  }else{
+    window.setTimeout(checkJQuery, 50);
+  }
+}
+
+checkJQuery();
+</script>
+
