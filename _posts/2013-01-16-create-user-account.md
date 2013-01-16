@@ -23,6 +23,7 @@ useradd -G sudo user1
   <button class="btn" type="button" id="change_button">Update Text</button>
 </div>
 
+<script>
 var old_val = $('#changeme').val();
 $('#change_button').on('click', function(){
     $(".bash,p").each(function(i){
@@ -30,3 +31,4 @@ $('#change_button').on('click', function(){
     });
     old_val = $('#changeme').val();
 });
+</script>
