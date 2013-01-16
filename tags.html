@@ -22,7 +22,7 @@ title: Tags
 </div>
 <script>
 function jQueryLoaded(){
-  $(window).on('hashchange', function(){
+  $(window).on('load hashchange', function(){
     if(window.location.hash){
       $('h4').parent().hide();
       $(window.location.hash).parent().show();
