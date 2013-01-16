@@ -23,12 +23,24 @@ useradd -G sudo user1
   <button class="btn" type="button" id="change_button">Update Text</button>
 </div>
 
-<script defer="defer">
-var old_val = $('#changeme').val();
-$('#change_button').on('click', function(){
-    $(".bash,p").each(function(i){
-        $(this).text($(this).text().replace(old_val, $('#changeme').val()));
+<script>
+function jQueryLoaded(){
+    var old_val = $('#changeme').val();
+    $('#change_button').on('click', function(){
+        $(".bash,p").each(function(i){
+            $(this).text($(this).text().replace(old_val, $('#changeme').val()));
+        });
+        old_val = $('#changeme').val();
     });
-    old_val = $('#changeme').val();
-});
+}
+
+function checkJQuery(){
+    if(window.jQuery){
+        jQueryLoaded();
+    }else{
+        window.setTimeout(checkJQuery, 50);
+    }
+}
+
+checkJQuery();
 </script>
