@@ -15,7 +15,12 @@ passwd user1
 
 Add user1 to group sudo
 {% highlight bash%}
-useradd -G sudo user1
+usermod -a -G sudo user1
+{% endhighlight %}
+
+Force user1 to change password at next login
+{% highlight bash%}
+chage -d 0 user1
 {% endhighlight %}
 
 <div class="input-append">
