@@ -19,7 +19,7 @@ useradd -G sudo user1
 {% endhighlight %}
 
 <div class="input-append">
-  <input class="span5" id="changeme" type="text" />
+  <input class="span5" id="changeme" type="text" value="user1" />
   <button class="btn" type="button" id="change_button">Update Text</button>
 </div>
 
