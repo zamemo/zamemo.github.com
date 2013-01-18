@@ -38,6 +38,8 @@ title: Bookmarks
 
 * Database
  - [Understanding Postgres Performance - Craig Kerstiens](http://craigkerstiens.com/2012/10/01/understanding-postgres-performance/)
+ - [D. Using sys.dm_db_index_physical_stats in a script to rebuild or reorganize indexes](http://msdn.microsoft.com/en-us/library/ms188917.aspx)
+ - [Handling Growth with Postgres: 5 Tips From Instagram](http://instagram-engineering.tumblr.com/post/40781627982/handling-growth-with-postgres-5-tips-from-instagram)
 
 * Flask
  - [zmusic-ng - ZX2C4 Music web application that serves and transcodes tagged music libraries using Flask and Backbone.js.](http://git.zx2c4.com/zmusic-ng/about/)
