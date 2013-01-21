@@ -16,6 +16,7 @@ title: Bookmarks
   - [ideashower's Space - Home](http://ideashower.posterous.com/)
   - [Ideas about the future of d3 and related technologies - Until the thought is gone](http://zacharymaril.com/blog/2012/07/10/ideas-about-future-of-d3/)
   - [](http://www.aosabook.org)
+  - [](http://hackdesign.org/link/startups-this-is-how-design-works/)
 * D3
   - [D3 Tutorials — Scott Murray — alignedleft](http://alignedleft.com/tutorials/d3/)
   - [D3 Tutorial - CS 448B](https://graphics.stanford.edu/wikis/cs448b-12-fall/D3_Tutorial)
