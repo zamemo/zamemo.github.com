@@ -15,9 +15,9 @@ title: Bookmarks
   - [Business Tips for Successful Startups](http://mixergy.com)
   - [ideashower's Space - Home](http://ideashower.posterous.com/)
   - [Ideas about the future of d3 and related technologies - Until the thought is gone](http://zacharymaril.com/blog/2012/07/10/ideas-about-future-of-d3/)
-  - [](http://www.aosabook.org)
-  - [](http://hackdesign.org/link/startups-this-is-how-design-works/)
-  - [](https://www.coursera.org/course/startup)
+  - [The Architecture of Open Source Applications](http://www.aosabook.org)
+  - [Coursera.org](https://www.coursera.org/course/startup)
+
 * D3
   - [D3 Tutorials — Scott Murray — alignedleft](http://alignedleft.com/tutorials/d3/)
   - [D3 Tutorial - CS 448B](https://graphics.stanford.edu/wikis/cs448b-12-fall/D3_Tutorial)
@@ -37,16 +37,19 @@ title: Bookmarks
   - [AddyOsmani.com | Articles for developers](http://addyosmani.com/blog/)
   - [APIs | Codecademy](http://www.codecademy.com/tracks/apis)
   - [Building a Website You Can Sell for 2013 | Website ValuationStuntdubl.com SEO Consulting &amp; Certification](http://www.stuntdubl.com/2013/01/08/website-valuation-2013/)
+  - [Startups, This is How Design Works | Hack Design](http://hackdesign.org/link/startups-this-is-how-design-works/)
 
 * Database
  - [Understanding Postgres Performance - Craig Kerstiens](http://craigkerstiens.com/2012/10/01/understanding-postgres-performance/)
  - [D. Using sys.dm_db_index_physical_stats in a script to rebuild or reorganize indexes](http://msdn.microsoft.com/en-us/library/ms188917.aspx)
  - [Handling Growth with Postgres: 5 Tips From Instagram](http://instagram-engineering.tumblr.com/post/40781627982/handling-growth-with-postgres-5-tips-from-instagram)
 
-* Flask
- - [zmusic-ng - ZX2C4 Music web application that serves and transcodes tagged music libraries using Flask and Backbone.js.](http://git.zx2c4.com/zmusic-ng/about/)
-
 * DNS
  - [CPYarger IT Services: UnoTelly / Tunlr Clone](http://www.cpyarger.com/2012/11/unotelly-tunlr-clone.html)
  - [Tunlr-Clone/README.md at master · corporate-gadfly/Tunlr-Clone · GitHub](https://github.com/corporate-gadfly/Tunlr-Clone/blob/master/README.md)
 
+* Flask
+ - [zmusic-ng - ZX2C4 Music web application that serves and transcodes tagged music libraries using Flask and Backbone.js.](http://git.zx2c4.com/zmusic-ng/about/)
+
+* Linux
+ - [Securing Ubuntu - Josh Rendek](http://joshrendek.com/2013/01/securing-ubuntu/)
