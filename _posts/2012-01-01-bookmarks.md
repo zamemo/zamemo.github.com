@@ -40,21 +40,21 @@ title: Bookmarks
   - [Startups, This is How Design Works | Hack Design](http://hackdesign.org/link/startups-this-is-how-design-works/)
 
 * Database
- - [Understanding Postgres Performance - Craig Kerstiens](http://craigkerstiens.com/2012/10/01/understanding-postgres-performance/)
- - [D. Using sys.dm_db_index_physical_stats in a script to rebuild or reorganize indexes](http://msdn.microsoft.com/en-us/library/ms188917.aspx)
- - [Handling Growth with Postgres: 5 Tips From Instagram](http://instagram-engineering.tumblr.com/post/40781627982/handling-growth-with-postgres-5-tips-from-instagram)
+  - [Understanding Postgres Performance - Craig Kerstiens](http://craigkerstiens.com/2012/10/01/understanding-postgres-performance/)
+  - [D. Using sys.dm_db_index_physical_stats in a script to rebuild or reorganize indexes](http://msdn.microsoft.com/en-us/library/ms188917.aspx)
+  - [Handling Growth with Postgres: 5 Tips From Instagram](http://instagram-engineering.tumblr.com/post/40781627982/handling-growth-with-postgres-5-tips-from-instagram)
 
 * DNS
- - [CPYarger IT Services: UnoTelly / Tunlr Clone](http://www.cpyarger.com/2012/11/unotelly-tunlr-clone.html)
- - [Tunlr-Clone/README.md at master · corporate-gadfly/Tunlr-Clone · GitHub](https://github.com/corporate-gadfly/Tunlr-Clone/blob/master/README.md)
+  - [CPYarger IT Services: UnoTelly / Tunlr Clone](http://www.cpyarger.com/2012/11/unotelly-tunlr-clone.html)
+  - [Tunlr-Clone/README.md at master · corporate-gadfly/Tunlr-Clone · GitHub](https://github.com/corporate-gadfly/Tunlr-Clone/blob/master/README.md)
 
 * Firefox OS
- - [Introducing the Firefox OS Boilerplate App ✩ Mozilla Hacks – the Web developer blog](https://hacks.mozilla.org/2013/01/introducing-the-firefox-os-boilerplate-app/)
- - [Building Firefox OS](http://buildingfirefoxos.com/)
+  - [Introducing the Firefox OS Boilerplate App ✩ Mozilla Hacks – the Web developer blog](https://hacks.mozilla.org/2013/01/introducing-the-firefox-os-boilerplate-app/)
+  - [Building Firefox OS](http://buildingfirefoxos.com/)
 
 * Flask
- - [Welcome | Flask (A Python Microframework)](http://flask.pocoo.org/)
- - [zmusic-ng - ZX2C4 Music web application that serves and transcodes tagged music libraries using Flask and Backbone.js.](http://git.zx2c4.com/zmusic-ng/about/)
+  - [Welcome | Flask (A Python Microframework)](http://flask.pocoo.org/)
+  - [zmusic-ng - ZX2C4 Music web application that serves and transcodes tagged music libraries using Flask and Backbone.js.](http://git.zx2c4.com/zmusic-ng/about/)
 
 * Linux
- - [Securing Ubuntu - Josh Rendek](http://joshrendek.com/2013/01/securing-ubuntu/)
+  - [Securing Ubuntu - Josh Rendek](http://joshrendek.com/2013/01/securing-ubuntu/)
