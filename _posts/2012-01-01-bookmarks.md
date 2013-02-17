@@ -38,6 +38,7 @@ title: Bookmarks
   - [APIs | Codecademy](http://www.codecademy.com/tracks/apis)
   - [Building a Website You Can Sell for 2013 | Website ValuationStuntdubl.com SEO Consulting &amp; Certification](http://www.stuntdubl.com/2013/01/08/website-valuation-2013/)
   - [Startups, This is How Design Works | Hack Design](http://hackdesign.org/link/startups-this-is-how-design-works/)
+  - [Appliness | Digital magazine for web application developers](http://www.appliness.com/)
 
 * Database
   - [Understanding Postgres Performance - Craig Kerstiens](http://craigkerstiens.com/2012/10/01/understanding-postgres-performance/)
