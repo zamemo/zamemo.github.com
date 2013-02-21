@@ -17,6 +17,7 @@ title: Bookmarks
   - [Ideas about the future of d3 and related technologies - Until the thought is gone](http://zacharymaril.com/blog/2012/07/10/ideas-about-future-of-d3/)
   - [The Architecture of Open Source Applications](http://www.aosabook.org)
   - [Coursera.org](https://www.coursera.org/course/startup)
+  - [igor-naming-guide.pdf](http://www.igorinternational.com/process/igor-naming-guide.pdf)
 
 * D3
   - [D3 Tutorials — Scott Murray — alignedleft](http://alignedleft.com/tutorials/d3/)
@@ -28,6 +29,7 @@ title: Bookmarks
   - [jQuery to Bacbone](https://github.com/kjbekkelund/writings/blob/master/published/understanding-backbone.md/)
   - [Developing Backbone.js Applications -](http://addyosmani.github.com/backbone-fundamentals/)
   - [tbranyen/backbone-boilerplate · GitHub](https://github.com/tbranyen/backbone-boilerplate)
+  - [Building Backbone.js apps with Backlift Part 1: Views and Templates - Gun.io](http://gun.io/blog/Building-Backbone.js-apps-with-Backlift-Views-and-Templates/)
 
 * Python
   - [Pycoder's Weekly Archive](http://pycoders.com/archive.html)
