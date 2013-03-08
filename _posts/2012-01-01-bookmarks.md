@@ -42,6 +42,7 @@ title: Bookmarks
   - [Startups, This is How Design Works | Hack Design](http://hackdesign.org/link/startups-this-is-how-design-works/)
   - [Appliness | Digital magazine for web application developers](http://www.appliness.com/)
   - [Eloquent JavaScript: A Modern Introduction to Programming](http://eloquentjavascript.net/)
+  - [Web Development Teaching Material](http://www.teaching-materials.org/)
 
 * Database
   - [Understanding Postgres Performance - Craig Kerstiens](http://craigkerstiens.com/2012/10/01/understanding-postgres-performance/)
