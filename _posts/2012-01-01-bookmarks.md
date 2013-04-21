@@ -66,3 +66,7 @@ title: Bookmarks
 
 * Android
   - [Dashboards | Android Developers](http://developer.android.com/about/dashboards/index.html)
+  - [Android App Development Cheat Sheet - Google Docs](https://docs.google.com/spreadsheet/lv?key=0Aiakq5EFgZZTdGlmblFNMFZLN3huRnNUNzdkWDRoekE)
+  - [Android cheatsheet for graphic designers](http://petrnohejl.github.io/Android-Cheatsheet-For-Graphic-Designers/)
+  - [Linus Granath - YouTube](http://www.youtube.com/channel/UC7vTzkJuMMHIor8hMmaWMyw)
+  - [List of Videos for Android Application Development](http://thenewboston.org/list.php?cat=6)
